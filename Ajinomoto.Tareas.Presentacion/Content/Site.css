@@ -22,3 +22,37 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.bd-example {
+    position: relative;
+    padding: 1rem;
+    margin: 1rem -.75rem 0;
+    border: solid #dee2e6;
+    border-width: 1px 0 0;
+}
+
+@media (min-width: 576px) {
+    .bd-example {
+        padding: 2.5rem;
+        margin-right: 0;
+        margin-left: 0;
+        border-width: 1px;
+        border-top-left-radius: .25rem;
+        border-top-right-radius: .25rem;
+    }
+}
+
+
+.form-horizontal .control-label {
+    text-align: unset !important;
+}
+
+.dl-horizontal dt {
+    text-align: unset !important;
+}
+
+@media (min-width: 768px) {
+    .dl-horizontal dt {
+        text-align: unset !important;
+    }
+}   
