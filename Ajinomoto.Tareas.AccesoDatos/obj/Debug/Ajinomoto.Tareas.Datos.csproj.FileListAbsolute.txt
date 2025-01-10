@@ -1,2 +1,0 @@
-C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Data\obj\Debug\Ajinomoto.Tareas.Datos.csproj.AssemblyReference.cache
-C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Data\obj\Debug\Ajinomoto.Tareas.Datos.csproj.CoreCompileInputs.cache
