@@ -2,3 +2,8 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs
+/Ajinomoto.Tareas.AccesoDatos/obj
+/Ajinomoto.Tareas.Entidades/obj
+/Ajinomoto.Tareas.Negocio/obj
+/Ajinomoto.Tareas.Presentacion/obj
