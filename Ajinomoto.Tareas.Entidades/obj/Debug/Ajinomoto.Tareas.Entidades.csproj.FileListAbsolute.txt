@@ -1,0 +1,11 @@
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Models\bin\Debug\Ajinomoto.Tareas.Models.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Models\bin\Debug\Ajinomoto.Tareas.Models.pdb
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Models\obj\Debug\Ajinomoto.Tareas.Entidades.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Models\obj\Debug\Ajinomoto.Tareas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Models\obj\Debug\Ajinomoto.Tareas.Models.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Models\obj\Debug\Ajinomoto.Tareas.Models.pdb
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Entidades\bin\Debug\Ajinomoto.Tareas.Models.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Entidades\bin\Debug\Ajinomoto.Tareas.Models.pdb
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Entidades\obj\Debug\Ajinomoto.Tareas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Entidades\obj\Debug\Ajinomoto.Tareas.Models.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Entidades\obj\Debug\Ajinomoto.Tareas.Models.pdb

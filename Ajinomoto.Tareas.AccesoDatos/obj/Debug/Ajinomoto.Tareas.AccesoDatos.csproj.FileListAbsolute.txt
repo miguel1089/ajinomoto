@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\Ajinomoto.Tareas.Data.dll.config
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\Ajinomoto.Tareas.Data.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\Ajinomoto.Tareas.Data.pdb
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\Ajinomoto.Tareas.Models.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\Ajinomoto.Tareas.Models.pdb
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\obj\Debug\Ajinomoto.Tareas.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\obj\Debug\Ajinomoto.Tareas.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\obj\Debug\Ajinomoto.Tareas.AccesoDatos.csproj.CopyComplete
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\obj\Debug\Ajinomoto.Tareas.Data.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.AccesoDatos\obj\Debug\Ajinomoto.Tareas.Data.pdb

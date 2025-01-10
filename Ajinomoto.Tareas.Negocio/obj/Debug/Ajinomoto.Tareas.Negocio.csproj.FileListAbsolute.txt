@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\Ajinimoto.Tareas.Business.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\Ajinimoto.Tareas.Business.pdb
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\Ajinomoto.Tareas.Data.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\Ajinomoto.Tareas.Models.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\Ajinomoto.Tareas.Data.pdb
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\Ajinomoto.Tareas.Data.dll.config
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\Ajinomoto.Tareas.Models.pdb
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\obj\Debug\Ajinomoto.Tareas.Negocio.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\obj\Debug\Ajinomoto.Tareas.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\obj\Debug\Ajinomoto.Tareas.Negocio.csproj.CopyComplete
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\obj\Debug\Ajinimoto.Tareas.Business.dll
+C:\Users\migue\source\repos\ajinomoto.tareas\Ajinomoto.Tareas.Negocio\obj\Debug\Ajinimoto.Tareas.Business.pdb

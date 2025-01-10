@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Ajinomoto.Tareas.Entidades.Tarea>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listado de tareas</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Create", null, new { @class = "btn btn-success" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Completada)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Titulo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Completada)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.IdTarea }, new { @class = "btn btn-warning" }) 
+            @Html.ActionLink("Detalles", "Details", new { id=item.IdTarea }, new { @class = "btn btn-primary" }) 
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.IdTarea },new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>
