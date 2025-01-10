@@ -7,3 +7,15 @@
 /Ajinomoto.Tareas.Entidades/obj
 /Ajinomoto.Tareas.Negocio/obj
 /Ajinomoto.Tareas.Presentacion/obj
+/Ajinomoto.Tareas.AccesoDatos/bin/Debug
+/Ajinomoto.Tareas.Entidades/bin/Debug
+/Ajinomoto.Tareas.Negocio/bin/Debug
+/Ajinomoto.Tareas.Presentacion/bin
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.~*
