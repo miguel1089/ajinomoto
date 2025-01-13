@@ -19,3 +19,13 @@
 *.userosscache
 *.sln.docstates
 *.~*
+/Ajinomoto.Tareas.Presentacion/.vs
+/Ajinomoto.Tareas.Web/bin/roslyn
+/Ajinomoto.Tareas.Web/bin/es
+/Ajinomoto.Tareas.Web/bin
+/Ajinomoto.Tareas.AccesoDatos/.vs
+/Ajinomoto.Tareas.Entidades/.vs
+/Ajinomoto.Tareas.Negocio/.vs
+/Ajinomoto.Tareas.Web/.vs
+/Ajinomoto.Tareas.Web/obj/Debug
+/.vs/ajinomoto.tareas/config/applicationhost.config
