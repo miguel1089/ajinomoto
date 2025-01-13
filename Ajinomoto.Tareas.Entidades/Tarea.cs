@@ -10,7 +10,9 @@ namespace Ajinomoto.Tareas.Entidades
     {
         [Key]
         public int IdTarea { get; set; }
+        //[Required]
         public string Titulo { get; set; }
+        //[Required]
         public string Descripcion { get; set; }
         public Nullable<bool> Completada { get; set; }
     }

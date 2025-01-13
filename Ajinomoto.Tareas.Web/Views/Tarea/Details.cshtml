@@ -1,0 +1,46 @@
+﻿@model Ajinomoto.Tareas.Entidades.Tarea
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalle de Tarea</h2>
+
+<div class="bd-example">
+    <div>
+        @*<h4>Tarea</h4>*@
+        @*<hr />*@
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Titulo)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Descripcion)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Completada)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Completada)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Editar", "Edit", new { id = Model.IdTarea }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-primary" })
+        @*@Html.ActionLink("Regresar", "Index")*@
+    </p>
+    </div>

@@ -73,6 +73,7 @@
     <Compile Include="Tarea.cs">
       <DependentUpon>DbModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="TareaDatos.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -194,6 +194,10 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Ajinomoto.Tareas.AccesoDatos\Ajinomoto.Tareas.AccesoDatos.csproj">
+      <Project>{8e115323-15f4-4d05-899c-c2bb2c4e9dcd}</Project>
+      <Name>Ajinomoto.Tareas.AccesoDatos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Ajinomoto.Tareas.Entidades\Ajinomoto.Tareas.Entidades.csproj">
       <Project>{847385c0-ac7c-4c8a-ae21-d1bf832aad87}</Project>
       <Name>Ajinomoto.Tareas.Entidades</Name>

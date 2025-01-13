@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajinomoto.Tareas.Entidades"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajinomoto.Tareas.Presentacion", "Ajinomoto.Tareas.Presentacion\Ajinomoto.Tareas.Presentacion.csproj", "{6E846940-8429-4BEA-9737-72A3ABECC681}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajinomoto.Tareas.Web", "Ajinomoto.Tareas.Web\Ajinomoto.Tareas.Web.csproj", "{B52843DA-B406-4B34-879E-C73730C1D608}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6E846940-8429-4BEA-9737-72A3ABECC681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E846940-8429-4BEA-9737-72A3ABECC681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E846940-8429-4BEA-9737-72A3ABECC681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52843DA-B406-4B34-879E-C73730C1D608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52843DA-B406-4B34-879E-C73730C1D608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52843DA-B406-4B34-879E-C73730C1D608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52843DA-B406-4B34-879E-C73730C1D608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

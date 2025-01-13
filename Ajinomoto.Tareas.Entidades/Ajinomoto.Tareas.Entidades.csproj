@@ -7,8 +7,8 @@
     <ProjectGuid>{847385C0-AC7C-4C8A-AE21-D1BF832AAD87}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ajinomoto.Tareas.Models</RootNamespace>
-    <AssemblyName>Ajinomoto.Tareas.Models</AssemblyName>
+    <RootNamespace>Ajinomoto.Tareas.Entidades</RootNamespace>
+    <AssemblyName>Ajinomoto.Tareas.Entidades</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

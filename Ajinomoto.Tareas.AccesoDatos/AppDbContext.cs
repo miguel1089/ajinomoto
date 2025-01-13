@@ -1,5 +1,4 @@
-﻿using Ajinomoto.Tareas.Entidades;
-using System.Data.Entity;
+﻿using System.Data.Entity;
 
 namespace Ajinomoto.Tareas.Data
 {

@@ -1,0 +1,51 @@
+﻿@model Ajinomoto.Tareas.Entidades.Tarea
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Eliminar Tarea</h2>
+
+<h3>¿Desea eliminar este registro?</h3>
+<div class="bd-example">
+    <div>
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Titulo)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Descripcion)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Completada)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Completada)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <input type="submit" value="Eliminar" class="btn btn-danger" />
+        @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-primary" })
+        @*@Html.ActionLink("Regresar", "Index")*@
+    </div>
+        }
+    </div>
+    </div>
